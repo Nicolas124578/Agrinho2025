@@ -63,4 +63,41 @@ footer {
   text-align: center;
   padding: 1rem;
   margin-top: 2rem;
+
+  <img><!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Página com Árvore</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Bem-vindo à Natureza</h1>
+  </header>
+
+  <main>
+    <section class="intro">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Tree_diagram.svg/800px-Tree_diagram.svg.png" alt="Imagem de uma árvore">
+      <div>
+        <p>As árvores são fundamentais para o equilíbrio do nosso ecossistema.</p>
+      </div>
+    </section>
+
+    <section class="actions">
+      <h2>Ações Sustentáveis</h2>
+      <ul>
+        <li>Plantar uma árvore</li>
+        <li>Reduzir o consumo de papel</li>
+        <li>Preservar áreas verdes</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 Natureza Viva
+  </footer>
+</body>
+</html>
 }
